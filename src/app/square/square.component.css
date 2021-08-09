@@ -1,0 +1,19 @@
+button {
+  height: 63px;
+  width: 200px;
+}
+span {
+  font-size: 50px;
+}
+.playerX {
+  background: darkmagenta ;
+  font-size: 20px;
+  font-weight: bold;
+  color: aliceblue;
+}
+.playerO {
+  background: darkorange;
+  font-size: 20px;
+  font-weight: bold;
+  color: aliceblue;
+}

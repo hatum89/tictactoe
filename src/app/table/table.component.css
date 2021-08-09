@@ -1,0 +1,14 @@
+.tableTic {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 0px;
+}
+
+app-square {
+  height: 50px;
+  width: 50px;
+}
+.reset {
+  margin: 9px;
+}
+

@@ -1,0 +1,11 @@
+
+<h1 style="color:white">Current Player: {{ player }}</h1>
+
+<div class="tableTic">
+  <app-square
+    *ngFor=" let val of squares; let i = index"
+    [value] ="val"
+    (click)= "makeMove(i)"
+  >
+  </app-square>
+</div>

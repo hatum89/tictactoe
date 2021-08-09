@@ -1,0 +1,7 @@
+.board {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  background: #6846ad;
+  height: 637px;
+}
